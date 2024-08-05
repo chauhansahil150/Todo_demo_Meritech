@@ -1,0 +1,82 @@
+{
+    "en": {
+      "home": "Home",
+      "map": "Map",
+      "analysis": "Analysis",
+      "add-employee": "Add Employee",
+      "delete": "Delete",
+      "ok": "OK",
+      "cancel": "Cancel",
+      "name": "Name",
+      "city": "City",
+      "salary": "Salary",
+      "action": "Action"
+
+    },
+    "fr": {
+      "home": "Accueil",
+      "map": "Carte",
+      "analysis": "Analyse",
+      "add-employee": "Ajouter un employé",
+      "delete": "Supprimer",
+      "ok": "OK",
+      "cancel": "Annuler",
+      "name": "Nom",
+      "city": "Ville",
+      "salary": "Salaire",
+      "action": "Action"
+    },
+    "es": {
+      "home": "Inicio",
+      "map": "Mapa",
+      "analysis": "Análisis",
+      "add-employee": "Agregar empleado",
+      "delete": "Eliminar",
+      "ok": "Aceptar",
+      "cancel": "Cancelar",
+      "name": "Nombre",
+      "city": "Ciudad",
+      "salary": "Salario",
+      "action": "Acción"
+    },
+    "ja": {
+      "home": "ホーム",
+      "map": "マップ",
+      "analysis": "分析",
+      "add-employee": "従業員を追加",
+      "delete": "削除",
+      "ok": "OK",
+      "cancel": "キャンセル",
+      "name": "名前",
+      "city": "市",
+      "salary": "給料",
+      "action": "アクション"
+    },
+    "zh": {
+      "home": "首页",
+      "map": "地图",
+      "analysis": "分析",
+      "add-employee": "添加员工",
+      "delete": "删除",
+      "ok": "确定",
+      "cancel": "取消",
+      "name": "名称",
+      "city": "城市",
+      "salary": "工资",
+      "action": "操作"
+    },
+    "de": {
+      "home": "Startseite",
+      "map": "Karte",
+      "analysis": "Analyse",
+      "add-employee": "Mitarbeiter hinzufügen",
+      "delete": "Löschen",
+      "ok": "OK",
+      "cancel": "Abbrechen",
+      "name": "Name",
+      "city": "Stadt",
+      "salary": "Gehalt",
+      "action": "Aktion"
+    }
+  }
+  
